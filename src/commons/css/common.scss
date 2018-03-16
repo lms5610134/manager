@@ -1,0 +1,39 @@
+/* 表单提示 */
+.input-help {
+  margin: 0;
+  position: absolute;
+  top: 8px;
+  right: 20px;
+  font-size: 15px;
+  color: red;
+}
+.el-form .form-group {
+    position: relative
+}
+// 面包屑
+.breadcrumb {
+  line-height: 40px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 15px;
+}
+
+.breadcrumb-item {
+  font-size: 16px;
+}
+
+// 分页
+.pagination {
+  text-align: right;
+}
+.el-pagination {
+  display: inline-block;
+}
+
+// 工具栏
+.toolbar {
+  padding: 10px 0;
+  .tool-btns {
+    padding-left: 60px;
+  }
+}
+
