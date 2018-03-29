@@ -1,6 +1,6 @@
-# a
+# manager
 
-> A Vue.js project
+> 一个简单的管理后台系统的前端页面
 
 ## Build Setup
 
